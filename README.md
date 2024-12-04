@@ -8,7 +8,8 @@ Css
 Javascript 
 Visual Studio Code
 
-# Proje Gif 
-![emaartech](https://github.com/user-attachments/assets/5a197339-d460-4b07-b7cb-1a1bdb1398fa)
+# Proje Gif ![emaartech](https://github.com/user-attachments/assets/7d23c0ee-5aa1-4216-abd7-68f807984055)
+
+
 
 
