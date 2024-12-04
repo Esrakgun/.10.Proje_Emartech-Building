@@ -1,4 +1,4 @@
-# Emartech-Building-Proje
+# Emaartech-Building-Proje
 # Proje Özellikleri
 Bu projede Html, Css ve JavaScrıpt kullanılarak bir film sitesi hazırlanmıştır.
 
