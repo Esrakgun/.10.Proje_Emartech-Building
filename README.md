@@ -5,6 +5,6 @@ Bu projede Html, Css ve JavaScrıpt kullanılarak bir film sitesi hazırlanmış
 # Projede Kullanılan Diller ve Araçlar
 Html Css Javascript Visual Studio Code
 
-# Proje Gif![Uploading emaartech.gif…]()
+# Proje Gif ![Uploading emaartech.gif…]()
 
 
